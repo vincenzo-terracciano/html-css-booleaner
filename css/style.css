@@ -5,7 +5,7 @@
 }
 
 body{
-    margin: 0;
+    border: 0;
 }
 
 #pattern-header{
@@ -40,4 +40,26 @@ h6{
 
 .second-line{
     background-color: var(--second-line-table);
+}
+
+#interests{
+    color: rgba(128, 128, 128, 0.685);
+}
+
+.first-image{
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+.second-image{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+}
+
+.text-interests{
+    color: white;
+    font-size: 25px;
+    text
 }
