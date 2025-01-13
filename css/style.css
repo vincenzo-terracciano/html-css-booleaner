@@ -1,0 +1,18 @@
+:root{
+    --boleaner-pattern: #4ea0ff;
+    --first-line-table: #20a9e5;
+    --second-line-table: #b1e5f2;
+}
+
+#pattern-header{
+    background-color: var(--boleaner-pattern);
+}
+
+#pattern{
+    width: 150px;
+    
+}
+
+#logo-pattern{
+    width: 100px;
+}
