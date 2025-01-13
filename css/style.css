@@ -35,4 +35,9 @@ h6{
 
 .first-line{
     background-color: var(--first-line-table);
+    color: white;
+}
+
+.second-line{
+    background-color: var(--second-line-table);
 }
