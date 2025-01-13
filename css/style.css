@@ -6,12 +6,12 @@
 
 #pattern-header{
     background-color: var(--boleaner-pattern);
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    height: 100px;
 }
 
-#pattern{
-    width: 150px;
-    
-}
+
 
 #logo-pattern{
     width: 100px;
