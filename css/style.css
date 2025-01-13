@@ -4,6 +4,10 @@
     --second-line-table: #b1e5f2;
 }
 
+body{
+    margin: 0;
+}
+
 #pattern-header{
     background-color: var(--boleaner-pattern);
     background-image: url(../img/pattern.png);
@@ -11,8 +15,24 @@
     height: 100px;
 }
 
-
-
 #logo-pattern{
     width: 100px;
+    margin-top: 60px;
+}
+
+
+h1{
+    margin: 0;
+}
+
+h5{
+    margin: 0;
+}
+
+h6{
+    margin: 0;
+}
+
+.first-line{
+    background-color: var(--first-line-table);
 }
