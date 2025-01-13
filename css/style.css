@@ -46,13 +46,13 @@ h6{
     color: rgba(128, 128, 128, 0.685);
 }
 
-.first-image{
+.monitor-image{
     background-image: url(../img/monitor.jpg);
     width: 312px;
     height: 208px;
 }
 
-.second-image{
+.graph-image{
     background-image: url(../img/graph.jpg);
     width: 311px;
     height: 207px;
@@ -61,5 +61,4 @@ h6{
 .text-interests{
     color: white;
     font-size: 25px;
-    text
 }
